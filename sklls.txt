@@ -1,0 +1,10 @@
+We learn the process of ensuring the quality of a software product at all stages of software development. Cheking the operation of websites, programs, applications. Finding errors, deskribing them. 
+Our task includes:
+-quality control of the produkts[D[D[Ccts being developed
+-identifikation[D[D[D[D[c[C[C[C[C[C, fixing, analysys[D[D[i[C[C[D of errors that occur
+-development of tests, test cases, scenarios
+-testing (manual, automated) 
+-analysis of test results
+-classification of errors
+-generating reports for developers
+-maintenance of the process of correcting errors found.
